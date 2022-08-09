@@ -3,7 +3,7 @@
 
 A medical research company that’s interested in finding better ways to predict myopia, or nearsightedness, exploring this possibility by using unsupervised learning. 
 
-Fitting data to a model and using clustering algorithms to place data into groups. Then, create a visualization that shares findings. 
+Fitting data to a model and using clustering algorithms to place data into groups. Then, creating a visualization that shares findings. 
 
 ## Objectives:
 
