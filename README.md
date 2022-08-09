@@ -45,6 +45,6 @@ Fitting data to a model and using clustering algorithms to place data into group
 
   4.2 Recommendation: 
   
-  Using a bigger dataset and spliting the data into Test and Training to test the above models and others to be able to make more accurate predictions and clustering.
+  Using a bigger dataset and spliting the data into Test and Training to test the above models to be able to make more accurate predictions and clustering.
 
 
