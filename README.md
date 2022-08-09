@@ -33,16 +33,18 @@ Fitting data to a model and using clustering algorithms to place data into group
 ![image](https://user-images.githubusercontent.com/100891182/183272356-e741af7f-cbfa-4a47-8281-c4ba75788294.png)
 
 
-* Part 4: Make recommendation"
+* Part 4: Findings and Recommendation:
 
-4.1 Myopia Clusters Findings:
+  4.1 Myopia Clusters Findings:
 
-The optimal number of clusters seems to be 3
+  The optimal number of clusters seems to be 3
 
-t-SNE was not helpful in finding clusters, there was some some difference after adjusting perplexity but this could be due to random noise.
+  t-SNE was not helpful in finding clusters, there was some some difference after adjusting perplexity but this could be due to random noise.
 
-Some patterns after performing the K-Means clustering but the dataset is small to make an accurate prediction or for further splitting and training of data.
+  Some patterns after performing the K-Means clustering but the dataset is small to make an accurate prediction or for further splitting and training of data.
 
-4.2 Recommendation: using a bigger dataset and spliting the data into Test and Training to test the above models and others to be able to make more accurate predictions and clustering.
+  4.2 Recommendation: 
+  
+  Using a bigger dataset and spliting the data into Test and Training to test the above models and others to be able to make more accurate predictions and clustering.
 
 
